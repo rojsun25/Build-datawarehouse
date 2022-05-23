@@ -1,4 +1,4 @@
-# Build-datawarehouse-datamarts
+# Build-traditional datawarehouse-datamarts
 Using SQL/Python - oracle developer
 
 ### Design STAR SCHEMA
@@ -14,7 +14,7 @@ the primary and foreign key.
 ### Steps to build datawarehouse
 
 1. Extract the waterquality dataset using Microsft Access where it consists of 17 years of samples taken from the various location.
-2. Connect ODBC utility tools to interact with the access and SQL DEVELOPER transform entire dataset.
+2. ODBC driver to interact with the access and SQL DEVELOPER transform entire dataset.
 3. Explore the data and anlayse 
 4. First Implement Dimension table using cursor method as per the sample model
 5. After - Implement FACT TABLE using CURSOR method 
@@ -22,10 +22,12 @@ the primary and foreign key.
 ![image](https://user-images.githubusercontent.com/84145744/169695982-0a48dac6-0be4-4590-af44-24ea63b4ca4b.png)
 
 
-### CONNECTING CX_ORACLE TO JUPYTER
+### Connecting cx_Oracle TO jupyter notebook
 1. Establishing a connection between cx_Oracle to Jupyter using the package: !pip install cx_Oracle.
-2. Connected to the oracle_client reading the library directory. 
-3. Connected to host ‘obiwan’ using the credentials user and password.
+2. Connect to the oracle_client reading the library directory. 
+3. Connect to host ‘’ using the credentials user and password.
+
+![cx_Oracle_arch](https://user-images.githubusercontent.com/84145744/169854677-86df9c02-73e4-4182-95c6-0dfac985fbf0.png)
 
 ### Machine learning models
 
