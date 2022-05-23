@@ -27,6 +27,8 @@ the primary and foreign key.
 2. Connect to the oracle_client reading the library directory. 
 3. Connect to host ‘’ using the credentials user and password.
 
+Link: https://drive.google.com/file/d/1BDDKL6tcljx7K61Tu8xKR_4ukp8qZ93o/view?usp=sharing
+
 ![cx_Oracle_arch](https://user-images.githubusercontent.com/84145744/169854677-86df9c02-73e4-4182-95c6-0dfac985fbf0.png)
 
 ### Machine learning models
