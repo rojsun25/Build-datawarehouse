@@ -33,6 +33,7 @@ Link: https://drive.google.com/file/d/1BDDKL6tcljx7K61Tu8xKR_4ukp8qZ93o/view?usp
 
 ### Machine learning models
 
+Split train and test models and validate: Water_Quality_Coursework.ipynb
 
 
 
